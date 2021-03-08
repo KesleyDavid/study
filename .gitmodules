@@ -1,3 +1,12 @@
 [submodule "study_NLW_4_React_Move-it"]
 	path = study_NLW_4_React_Move-it
 	url = git@github.com:KesleyDavid/study_NLW_4_React_Move-it.git
+[submodule "study_Ignite_React"]
+	path = study_Ignite_React
+	url = git@github.com:KesleyDavid/study_Ignite_React.git
+[submodule "study_Ignite_ReactNative"]
+	path = study_Ignite_ReactNative
+	url = git@github.com:KesleyDavid/study_Ignite_ReactNative.git
+[submodule "study_Ignite_Node"]
+	path = study_Ignite_Node
+	url = git@github.com:KesleyDavid/study_Ignite_Node.git
