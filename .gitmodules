@@ -10,3 +10,6 @@
 [submodule "study_Ignite_Node"]
 	path = study_Ignite_Node
 	url = git@github.com:KesleyDavid/study_Ignite_Node.git
+[submodule "study_Descomplicando_Docker"]
+	path = study_Descomplicando_Docker
+	url = git@github.com:KesleyDavid/study_Descomplicando_Docker.git
