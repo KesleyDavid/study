@@ -13,3 +13,9 @@
 [submodule "study_Descomplicando_Docker"]
 	path = study_Descomplicando_Docker
 	url = git@github.com:KesleyDavid/study_Descomplicando_Docker.git
+[submodule "study_NLW_5_ReactNative_PlantManager"]
+	path = study_NLW_5_ReactNative_PlantManager
+	url = git@github.com:KesleyDavid/study_NLW_5_ReactNative_PlantManager.git
+[submodule "study_NLW_5_React_Podcastr"]
+	path = study_NLW_5_React_Podcastr
+	url = git@github.com:KesleyDavid/study_NLW_5_React_Podcastr.git
