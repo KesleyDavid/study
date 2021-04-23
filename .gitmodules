@@ -19,3 +19,6 @@
 [submodule "study_NLW_5_React_Podcastr"]
 	path = study_NLW_5_React_Podcastr
 	url = git@github.com:KesleyDavid/study_NLW_5_React_Podcastr.git
+[submodule "study_NFT_NBA"]
+	path = study_NFT_NBA
+	url = git@github.com:KesleyDavid/study_NFT_NBA.git
