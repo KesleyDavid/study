@@ -22,3 +22,6 @@
 [submodule "study_NFT_NBA"]
 	path = study_NFT_NBA
 	url = git@github.com:KesleyDavid/study_NFT_NBA.git
+[submodule "study_NLW_6_React_Letmeask"]
+	path = study_NLW_6_React_Letmeask
+	url = git@github.com:KesleyDavid/study_NLW_6_React_Letmeask.git
