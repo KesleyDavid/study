@@ -25,3 +25,6 @@
 [submodule "study_NLW_6_React_Letmeask"]
 	path = study_NLW_6_React_Letmeask
 	url = git@github.com:KesleyDavid/study_NLW_6_React_Letmeask.git
+[submodule "study_Descomplicando_Kubernetes"]
+	path = study_Descomplicando_Kubernetes
+	url = git@github.com:KesleyDavid/study_Descomplicando_Kubernetes.git
