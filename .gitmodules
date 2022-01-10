@@ -28,3 +28,6 @@
 [submodule "study_Descomplicando_Kubernetes"]
 	path = study_Descomplicando_Kubernetes
 	url = git@github.com:KesleyDavid/study_Descomplicando_Kubernetes.git
+[submodule "study_NFT_contract"]
+	path = study_NFT_contract
+	url = git@github.com:KesleyDavid/study_NFT_contract.git
