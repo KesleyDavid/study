@@ -31,3 +31,6 @@
 [submodule "study_NFT_contract"]
 	path = study_NFT_contract
 	url = git@github.com:KesleyDavid/study_NFT_contract.git
+[submodule "study_Descomplicando_Istio"]
+	path = study_Descomplicando_Istio
+	url = git@github.com:KesleyDavid/study_Descomplicando_Istio.git
