@@ -37,3 +37,6 @@
 [submodule "study_Descomplicando_Gitlab"]
 	path = study_Descomplicando_Gitlab
 	url = git@github.com:KesleyDavid/study_Descomplicando_Gitlab.git
+[submodule "study_db_json"]
+	path = study_db_json
+	url = git@github.com:KesleyDavid/study_db_json.git
