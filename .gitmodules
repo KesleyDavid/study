@@ -40,3 +40,6 @@
 [submodule "study_db_json"]
 	path = study_db_json
 	url = git@github.com:KesleyDavid/study_db_json.git
+[submodule "study_NLW"]
+	path = study_NLW
+	url = git@github.com:KesleyDavid/study_NLW.git
