@@ -43,3 +43,6 @@
 [submodule "study_NLW"]
 	path = study_NLW
 	url = git@github.com:KesleyDavid/study_NLW.git
+[submodule "study_Ignite_Lab"]
+	path = study_Ignite_Lab
+	url = git@github.com:KesleyDavid/study_Ignite_Lab.git
