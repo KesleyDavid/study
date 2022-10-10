@@ -46,3 +46,6 @@
 [submodule "study_Ignite_Lab"]
 	path = study_Ignite_Lab
 	url = git@github.com:KesleyDavid/study_Ignite_Lab.git
+[submodule "study_AWS_certifications"]
+	path = study_AWS_certifications
+	url = git@github.com:KesleyDavid/study_AWS_certifications.git
